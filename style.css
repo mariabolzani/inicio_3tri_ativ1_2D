@@ -18,3 +18,5 @@ h2{color: antiquewhite;
        border-style: solid;
        border-color: rgb(255, 8, 8);
        border-width: 10px;}
+h2{border-style: double;
+border-color: blueviolet;}
