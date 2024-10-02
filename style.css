@@ -8,7 +8,7 @@ border-color: rgb(32, 235, 250);
 } 
 
 #img1 {margin-left: 37%;
-       border-style: solid;
+       border-style: double;
        border-color: rgb(255, 24, 151);
        border-width: 10px;}
 
