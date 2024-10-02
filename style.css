@@ -2,7 +2,7 @@ body {background-color: rgb(225, 240, 15);
 }
 h1 {text-align: center;
 text-decoration: overline;
-color: antiquewhite;
+color: rgb(0, 0, 0);
 border-style: solid;
 border-color: rgb(32, 235, 250);
 } 
